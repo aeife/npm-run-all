@@ -29,15 +29,15 @@
     "codecov": "nyc report -r lcovonly && codecov"
   },
   "dependencies": {
-    "ansi-styles": "^3.2.0",
-    "chalk": "^2.1.0",
-    "cross-spawn": "^5.1.0",
-    "memorystream": "^0.3.1",
-    "minimatch": "^3.0.4",
-    "ps-tree": "^1.1.0",
-    "read-pkg": "^3.0.0",
-    "shell-quote": "^1.6.1",
-    "string.prototype.padend": "^3.0.0"
+    "ansi-styles": "3.2.0",
+    "chalk": "2.1.0",
+    "cross-spawn": "5.1.0",
+    "memorystream": "0.3.1",
+    "minimatch": "3.0.4",
+    "ps-tree": "1.1.0",
+    "read-pkg": "3.0.0",
+    "shell-quote": "1.6.1",
+    "string.prototype.padend": "3.0.0"
   },
   "devDependencies": {
     "@types/node": "^4.2.20",
